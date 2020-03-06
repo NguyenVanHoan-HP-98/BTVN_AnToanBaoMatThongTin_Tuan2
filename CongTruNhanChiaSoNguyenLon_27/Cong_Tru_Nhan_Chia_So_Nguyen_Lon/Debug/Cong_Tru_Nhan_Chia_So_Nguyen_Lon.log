@@ -1,0 +1,4 @@
+﻿  Cong_Tru_Nhan_Chia_So_Nguyen_Lon.cpp
+g:\cnt57dh học kì ii 20 - 21\xử lý ảnh\bài tập thực hành\cong_tru_nhan_chia_so_nguyen_lon\cong_tru_nhan_chia_so_nguyen_lon\cong_tru_nhan_chia_so_nguyen_lon.cpp(19): warning C4018: '<': signed/unsigned mismatch
+g:\cnt57dh học kì ii 20 - 21\xử lý ảnh\bài tập thực hành\cong_tru_nhan_chia_so_nguyen_lon\cong_tru_nhan_chia_so_nguyen_lon\cong_tru_nhan_chia_so_nguyen_lon.cpp(285): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Cong_Tru_Nhan_Chia_So_Nguyen_Lon.vcxproj -> G:\CNT57DH Học kì II 20 - 21\Xử lý ảnh\Bài Tập Thực Hành\Cong_Tru_Nhan_Chia_So_Nguyen_Lon\Debug\Cong_Tru_Nhan_Chia_So_Nguyen_Lon.exe
